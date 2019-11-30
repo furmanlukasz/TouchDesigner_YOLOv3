@@ -60,7 +60,7 @@ Creadits go to this repositories, these are really cool implementations.
 7. How to use it: 
 * Inside `TD_Yolo.toe` project you will find spout output to send the texture. 
 * There is also little parser witch give you back 10 objects at the time,(accuracy and bounding box position on screen). The code in python is not limited so you can build you own parser or extend this one. It will be update in future. This version is very experimantal level.    
-* to set diffrent resolution change line 26 and 27 in `ObjectDetection.py` and set the same size to 'constant1' in `TD_Yolo.toe` _*note for now is working only with squerd resolution_
+* to set diffrent resolution change line 26 and 27 in `ObjectDetection.py` and set the same size to 'constant1' in `TD_Yolo.toe` _*note for now is working only with square resolution_
 
 ### TO DO:
 
