@@ -6,7 +6,7 @@ Integration of Yolo<->Tensorflow objectdetection model to TouchDesigner.
 * Spout <-> Python   please refere [here](https://github.com/spiraltechnica/Spout-for-Python) 
 * Tensorflow -> Yolo integration and training please refere [here](https://github.com/wizyoung/YOLOv3_TensorFlow)
 * To get idea how to train orginal Tensorflow-gpu object detection please refere [here](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
-* Big thanks to Matthew Ragan for socket and subprocess tutorial
+* Socket and subprocess [tutorial](https://matthewragan.com/2019/08/14/touchdesigner-python-and-the-subprocess-module/?fbclid=IwAR3Jg4byLlK7_PwDKc1DTQalAYUBrLykMM_6rXGNjeoi17CC5PExHmlZwWU)
 
 
 ## Installation 
