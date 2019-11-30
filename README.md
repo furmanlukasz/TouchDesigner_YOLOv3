@@ -1,4 +1,4 @@
-# TouchDesigner to Yolo
+# TouchDesigner to Yolo_v3 (object detection)
 ![GitHub Logo](https://github.com/furmanlukasz/TouchDesigner_YOLOv3/blob/master/td_yolo.PNG)
  
 ## Summary 
