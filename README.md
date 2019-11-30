@@ -53,7 +53,7 @@ Integration of Yolo<->Tensorflow objectdetection model to TouchDesigner.
 - open folder /YOLOv3_TF
 - if ask you to install python extension say 'yes'
 - activate pop up menu:  `ctrl+shift+p` 
-- Set vscode to us 'cnn' environment as default python interpreter, type: `Python: Select Interpreter` and set it to `Python 3.7.5 64-bit ('cnn':conda) `
+- Set vscode to use 'cnn' environment as default python interpreter, type: `Python: Select Interpreter` and set it to `Python 3.7.5 64-bit ('cnn':conda) `
 - open TouchDesigner project file: /YOLOv3_TF/TD_Yolo.toe
 - in the VScode - go to Explorer (ctrl+shift+e) and find the file named `ObjectDetection.py` right-click on a file and select 'Run Python File In Terminal'
 
@@ -66,3 +66,6 @@ Integration of Yolo<->Tensorflow objectdetection model to TouchDesigner.
 
 * ### Training module
 * ### parser optimalization 
+
+
+Have a fun playing with it! 
