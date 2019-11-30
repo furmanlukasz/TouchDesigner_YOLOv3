@@ -1,5 +1,6 @@
 # TouchDesigner  to  Yolo(Object Detection) integration 
-
+![GitHub Logo](https://github.com/furmanlukasz/TouchDesigner_YOLOv3/blob/master/td_yolo.PNG)
+ 
 ## Summary 
 Integration of Yolo<->Tensorflow objectdetection model to TouchDesigner.  
 ### Big thanks to autors of all below repositories.
